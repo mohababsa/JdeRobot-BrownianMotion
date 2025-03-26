@@ -23,12 +23,12 @@ This project implements a Brownian Motion simulation for a robot as part of the 
    pip install numpy matplotlib
    ```
 
-2.Run the simulation:
+2. Run the simulation:
    ```bash
    python main.py
    ```
 
-3.Output: Generates `brownian_motion_styled.gif`
+3. Output: Generates `brownian_motion_styled.gif`
 
 ## Results
 The simulation produces a GIF showing the robot's Brownian motion:
