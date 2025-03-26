@@ -32,7 +32,7 @@ This project implements a Brownian Motion simulation for a robot as part of the 
 
 ## Results
 The simulation produces a GIF showing the robot's Brownian motion:
-![Brownian Motion Simulation](brownian_motion_styled.gif)
+![Brownian Motion Simulation](brownian_motion_sample.gif)
 
 ## Author
 **Mohamed ABABSA** - GSoC 2025 Applicant
